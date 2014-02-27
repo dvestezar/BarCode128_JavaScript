@@ -1,4 +1,4 @@
-﻿//v1.0 by Dvestezar
+﻿//v1.0.0 by Dvestezar
 function html_barcode128(p){
 //vstup je pole
 // jediný povinný údaj je "pole.b" který obsahuje řetězec z kódem
